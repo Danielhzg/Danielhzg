@@ -9,9 +9,6 @@ Hi everyone, I'm a Software Developer with 2 years of experience. I can currentl
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielhagantaginting/)
 
 ---
-
-# 💻 Tech Stack:
-
 # 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
