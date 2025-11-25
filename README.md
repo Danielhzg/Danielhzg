@@ -1,12 +1,12 @@
 <h1 align="left">🦁 About Me:</h1>
-
-Hi everyone, I'm a Software Developer with 2 years of experience. I can currently build web and mobile applications and have some knowledge of machine learning. I can work alone or collaborate with a team.
+**
+Hi everyone, I'm a Software Developer with 2 years of experience. I can currently build web and mobile applications and have some knowledge of machine learning. I can work alone or collaborate with a team.**
 ---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielhagantaginting@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/danielhagantaginting)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielhagantaginting/)
 
 ---
 
