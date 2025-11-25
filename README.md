@@ -1,6 +1,6 @@
 <h1 align="left">🦁 About Me:</h1>
-**
-Hi everyone, I'm a Software Developer with 2 years of experience. I can currently build web and mobile applications and have some knowledge of machine learning. I can work alone or collaborate with a team.**
+
+Hi everyone, I'm a Software Developer with 2 years of experience. I can currently build web and mobile applications and have some knowledge of machine learning. I can work alone or collaborate with a team.
 ---
 
 ## 🌐 Socials:
@@ -41,7 +41,7 @@ Hi everyone, I'm a Software Developer with 2 years of experience. I can currentl
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge;logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 <!-- BARIS 4 -->
@@ -57,4 +57,26 @@ Hi everyone, I'm a Software Developer with 2 years of experience. I can currentl
 <!-- BARIS 5 -->
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Plo]()
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+---
+
+# 📊 GitHub Stats:
+
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=Danielhzg&theme=tokyonight&hide_border=false)
+
+---
+
+# 🏆 GitHub Trophies:
+![Trophies](https://github-profile-trophy.vercel.app/?username=Danielhzg&theme=flat&no-frame=true&margin-w=10)
+
+---
+
+# 🚀 Top Contributed Repo:
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=Danielhzg&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
