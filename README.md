@@ -70,7 +70,8 @@ Hi everyone, I'm a Software Developer with 2 years of experience. I can currentl
 # 📊 GitHub Stats:
 
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=Danielhzg&theme=tokyonight&hide_border=false)
-![Most Used Languages](https://user-images.githubusercontent.com/.../gambar.png)
+# 🔥 Most Used Languages:
+![Most Used Languages](/mnt/data/0bba2830-c62e-4abf-a7ac-0d5f2668dd14.png)
 
 ---
 
